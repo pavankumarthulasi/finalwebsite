@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    width:100%;
+    height:100vh;
+    background-image: url("./institue.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.header{
+    width: 100%;
+    color: white;
+    display: flex;
+    background-color:rgb(165, 233, 233, 0.1);
+    position: fixed ;
+}
+#logo{
+    padding: 5px;
+}
+img{
+    margin-top: 10px;
+    margin-left:6px;
+    width:60px;
+    height:60px;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 3px;
+}
+#p1{
+    float:left;
+    margin-left:10px;
+    margin-top:10px;
+    font-size: 25px;
+    color:white;
+    font-weight: bolder;
+
+}
+#p2{
+    margin-left:15px;
+    font-size:15px;
+    color: goldenrod;
+    text-transform: uppercase;
+    margin-top: 10px;
+    word-spacing:4PX;
+    margin-right: 60px;
+    color:red;
+}
+.s
+{
+    width:550px;
+    height: 200px;
+    
+}
+.s ul{
+    list-style: none;
+    margin-top: 30px;
+    margin-left:10px;
+
+}
+.s ul li{
+    display:inline;
+    margin-left:10px;
+    font-weight: bolder;
+
+
+}
+.s ul li a{
+    text-decoration: none;
+    color:white;
+}
+#bar{
+    font-size: 30px;
+    padding: 30px;
+}
+#bar a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px; 
+    float: right; 
+}
+#bar a:hover{
+    background-color: black;
+    border: 1.5px solid #fff;
+    border-radius: 50px;
+}
+.d{
+    height: fit-content;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+.d p{
+    font-size: 100px;
+    opacity: 5;
+}
+
+#bg{
+    width: 100%;
+}
+#home
+{
+    width:100%;
+    height:100vh;
+    background-color:black;
+    padding-top: 150px;;
+}
+.home
+{
+    display:flex;
+    justify-content:space-between;
+}
+#c
+{
+    width:60%;
+    margin:2px;
+    padding:4px;
+    color:white;
+}
+.home img{
+    width:25%;
+    height:20%;
+    background-size: cover;
+    margin-right:25px;
+}
+
+#home p{
+    margin:20px;
+    text-indent:80px;
+    text-align: justify;
+    color:aliceblue;
+}
+#home ul{
+    margin-left:200px;
+    display:inline;
+}
+li{ 
+    padding-left:50px;
+    color:white;
+    list-style: none;
+}
+#course
+{
+    width:100%;
+    background-color:cadetblue;
+    padding-top: 150px;;
+}
+.groups
+{
+    width:100%;
+    background-color:black;
+
+}
+ul{
+    display:flex;
+    margin-left:50px;
+
+
+
+}
+ li img{
+    padding-left: 25px;
+    padding-top: 40px;
+    width:550px;
+    height:400px;
+}
+ul li a{
+    margin-top: 150px;
+    text-decoration: none;
+}
+.groups ul li{
+    list-style: none;
+    width:600px;
+    display: block;
+    border:2px solid black;
+    text-decoration: none;
+    padding-left: 25px;
+}
+#place
+{
+    width:100%;
+    background-color:black;
+    padding-top: 150px;;
+}
+.place
+{
+ width:100%;
+ 
+}
+.btech
+{
+    margin-left:40px;
+    margin-top:40px;
+    display:flex;
+}
+.btech img{
+    width:550px;
+    height:400px;
+}
+.btech h2{
+    PADDING-LEFT:10PX;
+}
+.btech h2 p{
+    color:chartreuse;
+}
+.btech h2 li{
+    padding-top:10px;
+    list-style: none;
+    COLOR:YELLOW
+}
+#cont
+{
+    width:100%;
+    background-color:black;
+    padding-top: 150px;;
+}
+.cont
+{
+   width:100%; background-color:whitesmoke;
+   display:flex;
+   justify-content: space-between;
+
+
+}
+.b{
+    WIDTH:250PX;
+    MARGIN:20PX;
+    PADDING:20PX;
+}
+.me{
+    WIDTH:250PX;
+    MARGIN:20PX;
+    PADDING:20PX;
+}
+.in{
+    WIDTH:250PX;
+    MARGIN:20PX;
+    PADDING:20PX;
+}
+.sch{
+    WIDTH:250PX;
+    MARGIN:20PX;
+    PADDING:20PX;
+}
+.cont p{
+    font-weight:bold;
+    line-height: 50px;
+    font-size: medium;
+}
+.hostel
+{
+   width:100%; 
+   background-color:whitesmoke;
+   display:flex;
+   justify-content: space-between;
+
+
+}

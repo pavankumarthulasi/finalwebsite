@@ -1,0 +1,77 @@
+body{
+    background-color: skyblue;
+}
+.course
+{
+    width:100%;
+    height:100vh;
+    display:flex;
+
+    
+}
+.cse{
+ width:500PX;
+ BORDER:2PX SOLID BLACK;
+
+}
+.cse img{
+    width:440px;
+    height:50%;
+    background-position:center;
+
+}
+.cse ul{
+    width:240px;
+    list-style: none;
+    margin-left:5px;
+}
+.cse ul li{
+    margin-left:7px;
+}
+
+
+.ece{
+    margin-left:4px;
+    width:500px;
+   border: 2px solid blACK;
+   }
+   .ece img{
+       width:440px;
+       height:50%;
+       background-position:center;
+   
+   }
+   .cse ul{
+    width:240px;
+    list-style: none;
+    margin-left:5px;
+}
+.cse ul li{
+    margin-left:7px;
+}
+.eee{
+    margin-left:4px;
+    width:500px;
+   border: 2px solid blACK;
+   }
+
+   .eee img{
+       width:400px;
+       padding-left: 2px;
+       padding-top: 5px;;
+       height:50%;
+       background-position:center;
+   
+   }
+   .cse ul{
+    width:50%;
+    list-style: none;
+    margin-left:5px;
+}
+.cse ul li{
+    margin-left:7px;
+}
+
+.s{
+    margin-left:10px;
+}

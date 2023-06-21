@@ -1,0 +1,81 @@
+body{
+    background-image: url("./imagelogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#bar{
+    font-size: 30px;
+    padding: 30px;
+    float: right;
+    margin-top: -25%;
+}
+#bar a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px;  
+}
+#bar a:hover{
+    background-color: black;
+    border: 1.5px solid #fff;
+    border-radius: 50px;
+}
+.login{  
+    margin: auto;
+    height: 300px;
+    width: 350px;
+    margin-top: 15%;
+
+}
+form{
+    margin-top: 10%;
+    height: 300px;
+    width: 350px;
+    border: 2px solid blue;
+    background-color:rgb(219, 153, 153,0.2);
+    border-radius: 50px;
+}
+#form-ele1{
+    margin-top: 20%;
+    padding: 10px 30px;
+}
+#form-ele2{
+    padding: 10px 30px;
+}
+#submit{
+    width: 100px;
+    margin: auto;
+    margin-top: 5%;
+}
+#btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    font-size: x-large;
+}
+#btn:hover{
+    background-color: darkgrey;
+}
+
+label{
+    font-size: 25px;
+}
+#p1{
+    padding-top: 50px;
+    text-shadow: 2px 2px 3px yellowgreen;
+    text-align: center;
+    font-size: 25px;
+    color:red;
+    font-weight: bolder;
+
+}
+#p2{
+    text-align: center;
+    font-size:15px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px red;
+    margin-top: 10px;
+    word-spacing:4PX;
+    color:yellow;
+}
